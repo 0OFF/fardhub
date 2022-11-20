@@ -10,7 +10,9 @@
                                                   |:  1   |                                                      
                                                   |::.. . |                                                      
                                                   `-------'                                                      
-                                                                                                                 
+
+contact us on discord here
+glockfraudd#8519
+alekk#5331
 --]]
 
-print('hi')
